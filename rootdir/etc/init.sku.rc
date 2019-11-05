@@ -1,0 +1,9 @@
+on fs
+    setprop ro.product.board MT6739
+    setprop ro.product.vendor.device ANT
+    setprop ro.product.vendor.brand Nokia
+    setprop ro.product.vendor.model "Nokia 1 Plus"
+    setprop ro.product.vendor.nickname "Nokia 1 Plus"
+    setprop ro.product.vendor.manufacturer "HMD Global"
+on fs
+	setprop ro.vendor.build.fingerprint Nokia/Antman_00WW/ANT:9/PPR1.180610.011/00WW_0_980:user/release-keys

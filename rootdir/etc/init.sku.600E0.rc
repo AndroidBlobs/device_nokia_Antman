@@ -1,0 +1,4 @@
+on fs
+    setprop ro.product.vendor.name Antman_00EEA
+on fs
+	setprop ro.vendor.build.fingerprint Nokia/Antman_00EEA/ANT:9/PPR1.180610.011/00WW_0_980:user/release-keys
